@@ -46,7 +46,7 @@
     <!--====== PRELOADER PART START ======-->
 
     <div class="loader-wrap">
-        <div class="preloader"><div class="preloader-close">Preloader Close</div></div>
+        <div class="preloader"><div class="preloader-close"></div></div>
         <div class="layer layer-one"><span class="overlay"></span></div>
         <div class="layer layer-two"><span class="overlay"></span></div>        
         <div class="layer layer-three"><span class="overlay"></span></div>        
@@ -73,7 +73,7 @@
                         <div id="menu" class="text-left ">
                             <ul class="offcanvas_main_menu">
                                 <li class="menu-item-has-children active">
-                                    <a href="#">Home</a>                                  
+                                    <a href="index.html">Home</a>                                  
                                 </li>
                                 <li class="menu-item-has-children active">
                                     <a href="#service">Service</a>
@@ -97,9 +97,9 @@
                         </div>
                         <div class="footer-widget-info">
                             <ul>
-                                <li><a href=""><i class="fal fa-envelope"></i> hello@gpssewa.com</a></li>
-                                <li><a href=""><i class="fal fa-phone"></i> 01 4797157</a></li>
-                                <li><a href=""><i class="fal fa-map-marker-alt"></i> Buddhanagar, Kathmandu, Nepal</a></li>
+                                <li><a href="mailto:hello@gpssewa.com"><i class="fal fa-envelope"></i> hello@gpssewa.com</a></li>
+                                <li><a href="tel:01-4797157"><i class="fal fa-phone"></i> 01-4797157</a></li>
+                                <li><a href="https://goo.gl/maps/fPzx554YuG54TyXDA" target="_blank"><i class="fal fa-map-marker-alt"></i> Buddhanagar, Kathmandu, Nepal</a></li>
                             </ul>
                         </div>
                     </div>
@@ -118,7 +118,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-2 col-md-4 col-sm-5 col-6 order-1 order-sm-1">
                         <div class="appie-logo-box">
-                            <a href="#">
+                            <a href="index.html">
                                 <img src="assets/images/logo-7.png" alt="">
                             </a>
                         </div>
@@ -127,7 +127,7 @@
                         <div class="appie-header-main-menu">
                             <ul>
                                 <li>
-                                    <a href="#">Home </a>                                    
+                                    <a href="index.html">Home </a>                                    
                                 </li>
                                 <li>
                                     <a href="#service">Service</a>
@@ -167,8 +167,8 @@
                         <h1 class="appie-title">Fleet management technology for all business sizes.</h1>
                         <p>With our advanced vehicle tracking system you have complete control over your fleet and their activities.</p>
                         <ul>
-                            <li><a href="#"><i class="fab fa-apple"></i> Download for iOS</a></li>
-                            <li><a class="item-2" href="#"><i class="fab fa-google-play"></i> Download for Android</a></li>
+                            <li><a href="javascript:void(0)"><i class="fab fa-apple"></i> Coming Soon</a></li>
+                            <li><a class="item-2" href="https://play.google.com/store/apps/details?id=com.slashplus.gpssewa" target="_blank"><i class="fab fa-google-play"></i> Download for Android</a></li>
                         </ul>
                     </div>
                 </div>
@@ -502,11 +502,7 @@
                         <a class="appie-image-popup" href="assets/images/showcase-4.png"><img src="assets/images/showcase-4.png" alt=""></a>
                     </div>
                 </div>
-                <div class="col-lg-3">
-                    <div class="appie-showcase-item mt-30">
-                        <a class="appie-image-popup" href="assets/images/showcase-2.png"><img src="assets/images/showcase-2.png" alt=""></a>
-                    </div>
-                </div>
+                
             </div>
         </div>
         <div class="showcase-shape-1">
@@ -544,7 +540,7 @@
                         <img src="assets/images/shop-grid-1.jpg" alt="">                       
                     </div>
                     <div class="content pt-10">                       
-                        <a href="#">Fuel Sensor</a>                      
+                        <a href="javascript:void(0)">Fuel Sensor</a>                      
                     </div>
                     <div class="small">
                         Monitor fuel levels in fuel tanks of your of vehicles
@@ -557,7 +553,7 @@
                         <img src="assets/images/shop-grid-2.jpg" alt="">                       
                     </div>
                     <div class="content pt-10">                       
-                        <a href="#">Temperature Sensor</a>                      
+                        <a href="javascript:void(0)">Temperature Sensor</a>                      
                     </div>
                     <div class="small">
                         Detects and measures hotness and coolness of your vehicles
@@ -570,7 +566,7 @@
                         <img src="assets/images/shop-grid-3.jpg" alt="">                       
                     </div>
                     <div class="content pt-10">                       
-                        <a href="#">Two-way Speaker</a>                      
+                        <a href="javascript:void(0)">Two-way Speaker</a>                      
                     </div>
                     <div class="small">
                        Real-time communication between device and the user
@@ -583,7 +579,7 @@
                         <img src="assets/images/shop-grid-4.jpg" alt="">                       
                     </div>
                     <div class="content pt-10">                       
-                        <a href="#">Speed Buzzer</a>                      
+                        <a href="javascript:void(0)">Speed Buzzer</a>                      
                     </div>
                     <div class="small">
                         Detect and beeps vehicle on over speeding
@@ -596,10 +592,10 @@
                         <img src="assets/images/shop-grid-5.jpg" alt="">                       
                     </div>
                     <div class="content pt-10">                       
-                        <a href="#">Speed Limiter</a>                      
+                        <a href="javascript:void(0)">Speed Limiter</a>                      
                     </div>
                     <div class="small">
-                        Speed limiter limits the vehicle speed
+                        Speed limiter limits vehicle speed<br>&nbsp;
                     </div>
                 </div>
             </div> 
@@ -609,7 +605,7 @@
                         <img src="assets/images/shop-grid-6.jpg" alt="">                       
                     </div>
                     <div class="content pt-10">                       
-                        <a href="#">Power Relay</a>                      
+                        <a href="javascript:void(0)">Power Relay</a>                      
                     </div>
                     <div class="small">
                         Allows you to remotely power on and off your vehicle
@@ -622,7 +618,7 @@
                         <img src="assets/images/shop-grid-7.jpg" alt="">                       
                     </div>
                     <div class="content pt-10">                       
-                        <a href="#">SOS Trigger</a>                      
+                        <a href="javascript:void(0)">SOS Trigger</a>                      
                     </div>
                     <div class="small">
                         Sos trigger will notify your emergency person
@@ -635,7 +631,7 @@
                         <img src="assets/images/shop-grid-8.jpg" alt="">                       
                     </div>
                     <div class="content pt-10 yellow">                       
-                        <a href="#">Driver ID Card Reader</a>                      
+                        <a href="javascript:void(0)">Driver ID Card Reader</a>                      
                     </div>
                     <div class="small">
                         This device will read the ID card of drivers and identify the driver.
@@ -656,7 +652,7 @@
                 <div class="col-lg-12">
                     <div class="appie-section-title text-center">
                         <h3 class="appie-title">Download app today!</h3>
-                        <p>Download app for Andraoid and Ios today</p>
+                        <p>Download app for Android today</p>
                     </div>
                 </div>
             </div>
@@ -666,7 +662,7 @@
                         <div class="content">
                             <h4 class="title">Android</h4>
                             <p>Download app for Android today</p>
-                            <a class="main-btn main-btn-2" href="#"><i class="fab fa-google-play"></i>Download for Android</a>
+                            <a class="main-btn main-btn-2" href="https://play.google.com/store/apps/details?id=com.slashplus.gpssewa" target="_blank"><i class="fab fa-google-play"></i>Download for Android</a>
                         </div>
                         <div class="thumb text-center">
                             <img src="assets/images/download-thumb-1.png" alt="">
@@ -677,8 +673,8 @@
                     <div class="appie-download-3-box mt-30 ml-20 wow animated fadeInRight" data-wow-duration="2000ms" data-wow-delay="400ms">
                         <div class="content">
                             <h4 class="title">iOS</h4>
-                            <p>Download app for iOS today</p>
-                            <a class="main-btn main-btn-2" href="#"><i class="fab fa-apple"></i>Download for iOS</a>
+                            <p>Coming soon for iOS</p>
+                            <a class="main-btn main-btn-2" href="javascript:void(0)"><i class="fab fa-apple"></i>Coming Soon</a>
                         </div>
                         <div class="thumb text-right">
                             <img src="assets/images/download-thumb-2.png" alt="">
@@ -788,22 +784,22 @@
                 <div class="col-lg-12">
                     <div class="appie-sponser-box d-flex justify-content-center">
                         <div class="sponser-item">
-                            <img src="assets/images/sponser-1.png" height="150px" width="150px" alt="">
+                            <a href="https://cbf.slashplus.com.np/sajha_plus" target="_blank"><img src="assets/images/sponser-1.png" alt=""></a>
                         </div>
                         <div class="sponser-item">
-                            <img src="assets/images/sponser-2.png" alt="">
+                            <a href="https://cbf.slashplus.com.np/globalcity_plus" target="_blank"><img src="assets/images/sponser-2.png" alt=""></a>
                         </div>
                         <div class="sponser-item">
-                            <img src="assets/images/sponser-3.png" alt="">
+                            <a href="https://cbf.slashplus.com.np/mahanagar_plus" target="_blank"><img src="assets/images/sponser-3.png" alt=""></a>
                         </div>
                         <div class="sponser-item">
-                            <img src="assets/images/sponser-4.png" alt="">
+                            <a href="https://cbf.slashplus.com.np/nagarik_plus" target="_blank"><img src="assets/images/sponser-4.png" alt=""></a>
                         </div>
                         <div class="sponser-item">
-                            <img src="assets/images/sponser-5.png" alt="">
+                            <a href="javascript:void(0)"><img src="assets/images/sponser-5.png" alt=""></a>
                         </div>
                         <div class="sponser-item">
-                            <img src="assets/images/sponser-6.png" alt="">
+                            <a href="https://nepalmicrobus.com.np/" target="_blank"><img src="assets/images/sponser-6.png" alt=""></a>
                         </div>
                     </div>
                     <div class="appie-sponser-box item-2 d-flex justify-content-center">
@@ -885,7 +881,19 @@
     
     <!--====== APPIE TESTIMONIAL PART ENDS ====== -->
 
-   
+    <section class="appie-project-3-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="appie-project-3-box d-block d-md-flex justify-content-between align-items-center wow animated fadeInUp animated" data-wow-duration="2000ms" data-wow-delay="400ms" style="visibility: visible; animation-duration: 2000ms; animation-delay: 400ms; animation-name: fadeInUp;">
+                        <h4 class="title">Start your project <br> with Appie.</h4>
+                        <a class="main-btn" href="#">Let’s Talk</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <!--====== APPIE FOOTER PART START ======-->
     
     <section class="appie-footer-area appie-footer-area-dark" id="footer">
@@ -894,7 +902,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="footer-about-widget">
                         <div class="logo">
-                            <a href="#"><img src="assets/images/logo-7.png" alt=""></a>
+                            <a href="javascript:void(0)"><img src="assets/images/logo-7.png" alt=""></a>
                         </div>
                         <p>Our GPS System is designed to provide you with accurate and reliable location data for your vehicles, assets, and loved ones.</p>                        
                         <div class="social mt-30">
@@ -912,9 +920,9 @@
                     <div class="footer-widget-info">
                         <h4 class="title">Get In Touch</h4>
                         <ul>
-                            <li><a href="#"><i class="fal fa-envelope"></i> hello@gpssewa.com</a></li>
-                            <li><a href="#"><i class="fal fa-phone"></i> 01 4797157</a></li>
-                            <li><a href="#"><i class="fal fa-map-marker-alt"></i> Buddhanagar, Kathmandu, Nepal</a></li>
+                            <li><a href="mailto:hello@gpssewa.com"><i class="fal fa-envelope"></i> hello@gpssewa.com</a></li>
+                            <li><a href="tel:01-4797157"><i class="fal fa-phone"></i> 01-4797157</a></li>
+                            <li><a href="https://goo.gl/maps/fPzx554YuG54TyXDA" target="_blank"><i class="fal fa-map-marker-alt"></i> Buddhanagar, Kathmandu, Nepal</a></li>
                         </ul>
                     </div>
                 </div>
@@ -923,10 +931,10 @@
                 <div class="col-lg-12">
                     <div class="footer-copyright d-flex align-items-center justify-content-between pt-35">
                         <div class="apps-download-btn">
-                        <p>Powered by <a href="https://www.slashplus.com.np" target="_blank" style="color: #ffb800;">Slashplus Pvt. Ltd.</a> </p>
+                        <p>Powered by <a href="https://www.slashplus.com.np" target="_blank" style="color: #ffb800;"><img src="assets/images/slashplus.png" alt=""></a> </p>
                         </div>
                         <div class="copyright-text">
-                            <p>Copyright © 2023 GPS Sewa. All rights reserved.</p>
+                            <p>Copyright © <?php echo date('Y');?> GPS Sewa. All rights reserved.</p>
                         </div>
                     </div>
                 </div>
@@ -939,7 +947,7 @@
 
     <!--====== APPIE BACK TO TOP PART ENDS ======-->
     <div class="back-to-top">
-        <a href="#"><i class="fal fa-arrow-up"></i></a>
+        <a href="javascript:void(0)"><i class="fal fa-arrow-up"></i></a>
     </div>
     <!--====== APPIE BACK TO TOP PART ENDS ======-->
 
