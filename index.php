@@ -905,7 +905,7 @@
                     </div>                   
                     <div class="row ">
                         <div class="col-lg-12">
-                            <div class="appie-sponser-nta  d-flex" >
+                            <div class="appie-sponser-box  d-flex" >
                                 <div class="sponser-item-nta"> <img src="assets/images/nta.png" alt=""> </div>
                                 <div class="sponser-item-nta"> <img src="assets/images/moic.png" alt=""> </div>                                                      
                             </div>                           
