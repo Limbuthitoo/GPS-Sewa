@@ -884,7 +884,7 @@
     <section class="appie-footer-area appie-footer-area-dark" id="footer">
         <div class="container">
             <div class="row">
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-4 col-md-6">
                     <div class="footer-about-widget mr-10">
                         <div class="logo">
                             <a href="javascript:void(0)"><img src="assets/images/logo-7.png" alt=""></a>
@@ -898,18 +898,20 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-6">                   
+                <div class="col-lg-5 col-md-6">
+                    <div class="footer-widget-info ">
+                        <h4 class="title">NTA Approval</h4>
+                        <p>Our GPS trackers have received Type Approval from the NTA (Nepal Telecommunications Authority) and are licensed by the MOIC (Ministry of Communication and Information Technology, Government of Nepal).</p>
+                    </div>                   
                     <div class="row ">
                         <div class="col-lg-12">
-                            <div class="justify-content-center appie-sponser-box d-flex">
+                            <div class="appie-sponser-box d-flex" >
                                 <div class="sponser-item"> <img src="assets/images/nta.png" alt=""> </div>
                                 <div class="sponser-item"> <img src="assets/images/moic.png" alt=""> </div>                                                      
                             </div>                           
                         </div>                    
                     </div>
-                    <div class="text-center mt-30 ">
-                        <p>Our GPS trackers have received Type Approval from the NTA (Nepal Telecommunications Authority) and are licensed by the MOIC (Ministry of Communication and Information Technology, Government of Nepal).</p>
-                    </div>
+                  
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="footer-widget-info ml-10">
