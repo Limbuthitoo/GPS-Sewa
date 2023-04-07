@@ -210,8 +210,7 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="appie-single-service text-center mt-30 wow animated fadeInUp" data-wow-duration="2000ms" data-wow-delay="200ms">
                         <div class="icon">
-                            <img src="assets/images/icon/1.png" alt="">
-                           
+                            <img src="assets/images/icon/1.png" alt="">                           
                         </div>
                         <h4 class="appie-title">5+ Years</h4>
                         <p>Experience with excellence</p>
@@ -220,8 +219,7 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="appie-single-service text-center mt-30 item-2 wow animated fadeInUp" data-wow-duration="2000ms" data-wow-delay="400ms">
                         <div class="icon">
-                            <img src="assets/images/icon/2.png" alt="">
-                            
+                            <img src="assets/images/icon/2.png" alt="">                            
                         </div>
                         <h4 class="appie-title">1000+ Devices</h4>
                         <p>Installations and Monthly Support</p>
@@ -230,8 +228,7 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="appie-single-service text-center mt-30 item-3 wow animated fadeInUp" data-wow-duration="2000ms" data-wow-delay="600ms">
                         <div class="icon">
-                            <img src="assets/images/icon/3.png" alt="">
-                            
+                            <img src="assets/images/icon/3.png" alt="">                            
                         </div>
                         <h4 class="appie-title">2 Years</h4>
                         <p>Hardware Warrenty and Services</p>
@@ -240,8 +237,7 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="appie-single-service text-center mt-30 item-4 wow animated fadeInUp" data-wow-duration="2000ms" data-wow-delay="800ms">
                         <div class="icon">
-                            <img src="assets/images/icon/4.png" alt="">
-                            
+                            <img src="assets/images/icon/4.png" alt="">                 
                         </div>
                         <h4 class="appie-title">50+ Clients</h4>
                         <p>Trusted Companies and Individuals</p>
@@ -888,8 +884,8 @@
     <section class="appie-footer-area appie-footer-area-dark" id="footer">
         <div class="container">
             <div class="row">
-                <div class="col-lg-4 col-md-6">
-                    <div class="footer-about-widget">
+                <div class="col-lg-3 col-md-6">
+                    <div class="footer-about-widget mr-10">
                         <div class="logo">
                             <a href="javascript:void(0)"><img src="assets/images/logo-7.png" alt=""></a>
                         </div>
@@ -902,11 +898,21 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-5 col-md-6">
-                    
+                <div class="col-lg-6 col-md-6">                   
+                    <div class="row ">
+                        <div class="col-lg-12">
+                            <div class="justify-content-center appie-sponser-box d-flex">
+                                <div class="sponser-item"> <img src="assets/images/nta.png" alt=""> </div>
+                                <div class="sponser-item"> <img src="assets/images/moic.png" alt=""> </div>                                                      
+                            </div>                           
+                        </div>                    
+                    </div>
+                    <div class="text-center mt-30 ">
+                        <p>Our GPS trackers have received Type Approval from the NTA (Nepal Telecommunications Authority) and are licensed by the MOIC (Ministry of Communication and Information Technology, Government of Nepal).</p>
+                    </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
-                    <div class="footer-widget-info">
+                    <div class="footer-widget-info ml-10">
                         <h4 class="title">Get In Touch</h4>
                         <ul>
                             <li><a href="mailto:hello@gpssewa.com"><i class="fal fa-envelope"></i> hello@gpssewa.com</a></li>
