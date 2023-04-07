@@ -899,15 +899,15 @@
                     </div>
                 </div>
                 <div class="col-lg-5 col-md-6">
-                    <div class="footer-widget-info ">
+                    <div class="footer-widget-info">
                         <h4 class="title">NTA Approval</h4>
                         <p>Our GPS trackers have received Type Approval from the NTA (Nepal Telecommunications Authority) and are licensed by the MOIC (Ministry of Communication and Information Technology, Government of Nepal).</p>
                     </div>                   
                     <div class="row ">
                         <div class="col-lg-12">
-                            <div class="appie-sponser-box d-flex" >
-                                <div class="sponser-item"> <img src="assets/images/nta.png" alt=""> </div>
-                                <div class="sponser-item"> <img src="assets/images/moic.png" alt=""> </div>                                                      
+                            <div class="appie-sponser-box  d-flex" >
+                                <div class="sponser-item-nta"> <img src="assets/images/nta.png" alt=""> </div>
+                                <div class="sponser-item-nta"> <img src="assets/images/moic.png" alt=""> </div>                                                      
                             </div>                           
                         </div>                    
                     </div>
